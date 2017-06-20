@@ -1,9 +1,0 @@
-Building JXCoin
-
-See doc/readme-qt.rst for instructions on building JXCoin Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of JXCoin.
-
-See doc/build-*.txt for instructions on building JXCoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of JXCoin.
