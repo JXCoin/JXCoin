@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=JXCoin
+Comment=JXCoin P2P Cryptocurrency
+Comment[ru]=JXCoin, P2P криптовалюта
+Comment[fr]=JXCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=JXCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/JXCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/JXCoin80.xpm
+MimeType=x-scheme-handler/JXCoin;
+Categories=Office;
