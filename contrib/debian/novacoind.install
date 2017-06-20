@@ -1,0 +1,2 @@
+debian/bin/JXCoind usr/bin
+src/JXCoind usr/lib/JXCoin
